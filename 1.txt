@@ -1,0 +1,2 @@
+perangkat lunak yang kode sumbernya tersedia untuk umum. Ini berarti siapa pun dapat melihat, mengubah, dan mendistribusikan ulang kode 
+tersebut sesuai dengan lisensi yang ditentukan.

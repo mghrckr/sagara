@@ -1,0 +1,3 @@
+SELECT * 
+FROM Tabel
+WHERE Usia > 20;

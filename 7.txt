@@ -1,0 +1,24 @@
+
+Terdapat beberapa metode sorting yang umum digunakan dalam pemrograman, berikut adalah beberapa di antaranya:
+
+1. Bubble Sort:
+merupakan algoritma sorting yang sederhana. Ia membandingkan pasangan elemen berurutan dan menukar mereka jika urutannya salah. Proses ini berulang-ulang hingga tidak ada lagi pertukaran yang dilakukan, 
+sehingga elemen terbesar akan berada di posisi akhir. Ini adalah metode yang tidak efisien untuk jumlah data yang besar karena memerlukan banyak iterasi.
+
+2. Selection Sort:
+Algoritma ini memilih elemen terkecil dari daftar dan menukarnya dengan elemen di posisi awal. 
+Kemudian, elemen terkecil kedua dipilih dan ditukar dengan elemen di posisi kedua, dan proses ini berlanjut sampai seluruh data terurut.
+
+3. Insertion Sort:
+Dalam algoritma ini, elemen-elemen dari daftar dipisah menjadi dua bagian, bagian yang diurutkan dan bagian yang belum diurutkan. 
+Setiap elemen dari bagian yang belum diurutkan ditambahkan ke bagian yang diurutkan dengan cara membandingkan dengan elemen-elemen yang ada dan menempatkannya di posisi yang tepat.
+
+4. Merge Sort:
+Metode ini menggunakan pendekatan divide-and-conquer. Daftar dibagi menjadi bagian-bagian kecil yang kemudian diurutkan secara terpisah. 
+Kemudian, bagian-bagian yang terurut tersebut digabungkan kembali secara berurutan untuk menghasilkan daftar yang terurut.
+
+5. Quick Sort:
+Ini juga menggunakan pendekatan divide-and-conquer. Satu elemen dari daftar dipilih sebagai pivot, dan elemen-elemen lainnya dipartisi ke dalam 
+dua kelompok: elemen yang lebih kecil dari pivot dan elemen yang lebih besar. Proses ini diulangi untuk kedua kelompok tersebut dan diurutkan secara rekursif.
+
+Setiap metode sorting memiliki keunggulan dan kelemahan dalam hal kecepatan, kompleksitas, dan kinerja tergantung pada jenis data dan ukuran data yang diurutkan. Pemilihan metode sorting yang tepat tergantung pada konteks dan persyaratan spesifik dari permasalahan yang dihadapi.

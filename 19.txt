@@ -1,0 +1,2 @@
+DELETE FROM Tabel
+WHERE ID = 'R001';

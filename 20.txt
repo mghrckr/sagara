@@ -1,0 +1,6 @@
+Git merupakan sistem yang memungkinkan untuk melacak perubahan dalam kode . Untuk memulai dengan Git, inisialisasi 
+repositori dilakukan dengan perintah git init dalam terminal di direktori,ini membuat direktori tersebut menjadi repositori Git kosong yang siap untuk digunakan.
+
+
+
+

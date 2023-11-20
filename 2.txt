@@ -1,0 +1,6 @@
+Synchronous:
+Proses synchronous adalah proses yang berjalan secara berurutan. Artinya, program akan menunggu tugas tertentu selesai sebelum melanjutkan ke tugas berikutnya. 
+
+Asynchronous:
+Proses asynchronous memungkinkan tugas-tugas untuk berjalan secara independen tanpa harus menunggu tugas sebelumnya selesai. Ini berarti program dapat 
+menjalankan beberapa tugas pada waktu yang bersamaan.

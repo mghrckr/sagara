@@ -1,0 +1,13 @@
+Cloud storage  untuk menyimpan dan mengakses data secara online, sedangkan CDN mempercepat pengiriman konten web ke pengguna dengan mendekatkan server dengan lokasi mereka. 
+Cloud storage untuk penyimpanan, sementara CDN untuk optimasi pengiriman konten.
+
+Keuntungan Cloud Storage:
+
+Skalabilitas: Mudah ditingkatkan kapasitasnya sesuai kebutuhan.
+Akses Fleksibel: Bisa diakses dari berbagai perangkat di mana saja dengan koneksi internet.
+
+Keuntungan CDN:
+
+Peningkatan Kecepatan: Konten diakses lebih cepat karena disajikan dari server terdekat dengan pengguna.
+Reduksi Beban Server Asli: Mengurangi beban pada server asli dengan mendistribusikan konten ke server CDN.
+

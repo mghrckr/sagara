@@ -1,0 +1,2 @@
+Penggunaan framework membuat kode menjadi Lebih Terstruktur, kemudian membantu mempercepat proses pengembangan, meningkatkan keamanan, 
+dan memperbaiki kualitas dan konsistensi dalam proyek pengembangan perangkat lunak.

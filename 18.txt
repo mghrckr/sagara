@@ -1,0 +1,17 @@
+inner:
+SELECT T1.Nama, T3.Mata_kuliah
+FROM Tabel AS T1
+INNER JOIN Tabel2 AS T2 ON T1.ID = T2.Id_siswa
+INNER JOIN Tabel3 AS T3 ON T2.Id_mata_kuliah = T3.Id;
+
+left join:
+SELECT T1.Nama, T3.Mata_kuliah
+FROM Tabel AS T1
+LEFT JOIN Tabel2 AS T2 ON T1.ID = T2.Id_siswa
+LEFT JOIN Tabel3 AS T3 ON T2.Id_mata_kuliah = T3.Id;
+
+right join : 
+SELECT T1.Nama, T3.Mata_kuliah
+FROM Tabel AS T1
+RIGHT JOIN Tabel2 AS T2 ON T1.ID = T2.Id_siswa
+RIGHT JOIN Tabel3 AS T3 ON T2.Id_mata_kuliah = T3.Id;
